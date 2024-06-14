@@ -10,7 +10,7 @@ The variables or columns present in the dataset are- Name, Year, Duration, Genre
 
 
 
-This project uses the Linear Regression algorithm as well as the data science steps such as analysis, preprocessing,feature engineering, modeling and evaluation to predict the ratings.
+This project uses the Linear Regression algorithm as well as the data science steps such as analysis, preprocessing, visualization, feature engineering, modeling and evaluation to predict the ratings.
 
 
 
